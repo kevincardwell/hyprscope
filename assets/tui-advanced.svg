@@ -1,0 +1,289 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1276" height="628" viewBox="0 0 1276 628">
+<rect width="100%" height="100%" rx="8" fill="#1e2127"/>
+<style>text{font-family:"JetBrains Mono","Fira Code",ui-monospace,monospace;font-size:13px;white-space:pre}</style>
+<rect x="8.0" y="8.0" width="92.4" height="18" fill="#56b6c2"/>
+<text x="8.0" y="21.5" fill="#3b4252" style="font-weight:600"> hyprscope </text>
+<text x="100.4" y="21.5" fill="#c8ccd4" style=""> Hyprland </text>
+<text x="184.4" y="21.5" fill="#56b6c2" style="">v0.56.2</text>
+<text x="243.2" y="21.5" fill="#c8ccd4" style="">  6 windows  63 rules  </text>
+<text x="436.4" y="21.5" fill="#5c6370" style="">~/.config/hypr/hyprland.lua</text>
+<text x="663.2" y="21.5" fill="#c8ccd4" style="">  </text>
+<rect x="680.0" y="8.0" width="84.0" height="18" fill="#e5c07b"/>
+<text x="680.0" y="21.5" fill="#3b4252" style=""> advanced </text>
+<text x="8.0" y="39.5" fill="#5c6370" style="">┌</text>
+<text x="16.4" y="39.5" fill="#5c6370" style="font-weight:600"> windows </text>
+<text x="92.0" y="39.5" fill="#5c6370" style="">──────────────────────────────────────────────┐</text>
+<text x="486.8" y="39.5" fill="#56b6c2" style="">┌</text>
+<text x="495.2" y="39.5" fill="#56b6c2" style="font-weight:600"> rules for 0x559f6cf2d5c0 kitty </text>
+<text x="764.0" y="39.5" fill="#56b6c2" style="">───────────────────────────────────────────────────────────┐</text>
+<text x="8.0" y="57.5" fill="#5c6370" style="">│</text>
+<rect x="16.4" y="44.0" width="184.8" height="18" fill="#282c34"/>
+<text x="16.4" y="57.5" fill="#c8ccd4" style="font-weight:600">▸  kitty              </text>
+<rect x="201.2" y="44.0" width="193.2" height="18" fill="#282c34"/>
+<text x="201.2" y="57.5" fill="#c8ccd4" style="font-weight:600">btop                   </text>
+<rect x="394.4" y="44.0" width="33.6" height="18" fill="#282c34"/>
+<text x="394.4" y="57.5" fill="#56b6c2" style="font-weight:600">  11</text>
+<rect x="428.0" y="44.0" width="33.6" height="18" fill="#282c34"/>
+<text x="428.0" y="57.5" fill="#e5c07b" style="font-weight:600">    </text>
+<rect x="461.6" y="44.0" width="16.8" height="18" fill="#282c34"/>
+<text x="461.6" y="57.5" fill="#5c6370" style="font-weight:600"> 6</text>
+<text x="478.4" y="57.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="57.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="57.5" fill="#c8ccd4" style="">&quot;btop&quot;</text>
+<text x="545.6" y="57.5" fill="#c8ccd4" style="">  ws 11  </text>
+<text x="621.2" y="57.5" fill="#e5c07b" style="">tiled</text>
+<text x="663.2" y="57.5" fill="#5c6370" style="">  opened as kitty &quot;kitty&quot;</text>
+<text x="873.2" y="57.5" fill="#c8ccd4" style="">                                              </text>
+<text x="1259.6" y="57.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="75.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="75.5" fill="#c8ccd4" style="">   org.omarchy.agent  </text>
+<text x="201.2" y="75.5" fill="#c8ccd4" style="">✳ Omarchy Sony WH-1000…</text>
+<text x="394.4" y="75.5" fill="#56b6c2" style="">   2</text>
+<text x="428.0" y="75.5" fill="#e5c07b" style="">    </text>
+<text x="461.6" y="75.5" fill="#5c6370" style=""> 5│</text>
+<text x="486.8" y="75.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="75.5" fill="#5c6370" style="">tags </text>
+<text x="537.2" y="75.5" fill="#56b6c2" style="">default-opacity* terminal*</text>
+<text x="755.6" y="75.5" fill="#98c379" style="">  ✓ model matches Hyprland</text>
+<text x="974.0" y="75.5" fill="#c8ccd4" style="">                                  </text>
+<text x="1259.6" y="75.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="93.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="93.5" fill="#c8ccd4" style="">   deluge             </text>
+<text x="201.2" y="93.5" fill="#c8ccd4" style="">Deluge                 </text>
+<text x="394.4" y="93.5" fill="#56b6c2" style="">  10</text>
+<text x="428.0" y="93.5" fill="#e5c07b" style="">    </text>
+<text x="461.6" y="93.5" fill="#5c6370" style=""> 4│</text>
+<text x="486.8" y="93.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="93.5" fill="#5c6370" style="">effective </text>
+<text x="579.2" y="93.5" fill="#c8ccd4" style="">opacity=</text>
+<text x="646.4" y="93.5" fill="#e5c07b" style="">1.0 1.0 </text>
+<text x="713.6" y="93.5" fill="#c8ccd4" style="">scroll_touchpad=</text>
+<text x="848.0" y="93.5" fill="#e5c07b" style="">1.5 </text>
+<text x="881.6" y="93.5" fill="#c8ccd4" style="">suppress_event=</text>
+<text x="1007.6" y="93.5" fill="#e5c07b" style="">maximize </text>
+<text x="1083.2" y="93.5" fill="#c8ccd4" style="">                     </text>
+<text x="1259.6" y="93.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="111.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="111.5" fill="#c8ccd4" style="">   </text>
+<text x="41.6" y="111.5" fill="#c8ccd4" style="font-weight:600">org.omarchy.agent </text>
+<text x="192.8" y="111.5" fill="#c8ccd4" style=""> </text>
+<text x="201.2" y="111.5" fill="#c8ccd4" style="">◑ GitHub repository co…</text>
+<text x="394.4" y="111.5" fill="#56b6c2" style="">   3</text>
+<text x="428.0" y="111.5" fill="#e5c07b" style="">    </text>
+<text x="461.6" y="111.5" fill="#5c6370" style=""> 5│</text>
+<text x="486.8" y="111.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="111.5" fill="#98c379" style="">ON</text>
+<text x="512.0" y="111.5" fill="#c8ccd4" style=""> </text>
+<text x="520.4" y="111.5" fill="#e5c07b" style="">★</text>
+<text x="528.8" y="111.5" fill="#56b6c2" style="">   1 </text>
+<text x="570.8" y="111.5" fill="#c8ccd4" style="">omarchy/input.lua:78        </text>
+<text x="806.0" y="111.5" fill="#c8ccd4" style="">class~(Alacritty|kitty|foot)</text>
+<text x="1041.2" y="111.5" fill="#c8ccd4" style="">  </text>
+<text x="1058.0" y="111.5" fill="#e5c07b" style="">scroll_touchpad=1.5 </text>
+<text x="1226.0" y="111.5" fill="#c8ccd4" style="">    </text>
+<text x="1259.6" y="111.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="129.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="129.5" fill="#c8ccd4" style="">   brave-origin       </text>
+<text x="201.2" y="129.5" fill="#c8ccd4" style="">YouTube - Brave Origin </text>
+<text x="394.4" y="129.5" fill="#56b6c2" style="">   1</text>
+<text x="428.0" y="129.5" fill="#e5c07b" style="">    </text>
+<text x="461.6" y="129.5" fill="#5c6370" style=""> 4│</text>
+<text x="486.8" y="129.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="129.5" fill="#98c379" style="">ON</text>
+<text x="512.0" y="129.5" fill="#c8ccd4" style=""> </text>
+<text x="520.4" y="129.5" fill="#e5c07b" style="">★</text>
+<text x="528.8" y="129.5" fill="#56b6c2" style="">   3 </text>
+<text x="570.8" y="129.5" fill="#c8ccd4" style="">omarchy/windows.lua:3       </text>
+<text x="806.0" y="129.5" fill="#c8ccd4" style="">class~.*</text>
+<text x="873.2" y="129.5" fill="#c8ccd4" style="">  </text>
+<text x="890.0" y="129.5" fill="#e5c07b" style="">suppress_event=&quot;maximize&quot; </text>
+<text x="1108.4" y="129.5" fill="#c8ccd4" style="">                  </text>
+<text x="1259.6" y="129.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="147.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="147.5" fill="#c8ccd4" style="">   Spotify            </text>
+<text x="201.2" y="147.5" fill="#c8ccd4" style="">Charles Wright &amp; The W…</text>
+<text x="394.4" y="147.5" fill="#56b6c2" style="">   6</text>
+<text x="428.0" y="147.5" fill="#e5c07b" style=""> X  </text>
+<text x="461.6" y="147.5" fill="#5c6370" style=""> 4│</text>
+<text x="486.8" y="147.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="147.5" fill="#98c379" style="">ON</text>
+<text x="512.0" y="147.5" fill="#c8ccd4" style=""> </text>
+<text x="520.4" y="147.5" fill="#e5c07b" style="">★</text>
+<text x="528.8" y="147.5" fill="#56b6c2" style="">   4 </text>
+<text x="570.8" y="147.5" fill="#c8ccd4" style="">omarchy/windows.lua:6       </text>
+<text x="806.0" y="147.5" fill="#c8ccd4" style="">class~.*</text>
+<text x="873.2" y="147.5" fill="#c8ccd4" style="">  </text>
+<text x="890.0" y="147.5" fill="#e5c07b" style="">tag=&quot;+default-opacity&quot; </text>
+<text x="1083.2" y="147.5" fill="#c8ccd4" style="">                     </text>
+<text x="1259.6" y="147.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="165.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="165.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="165.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="165.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="165.5" fill="#98c379" style="">ON</text>
+<text x="512.0" y="165.5" fill="#c8ccd4" style=""> </text>
+<text x="520.4" y="165.5" fill="#e5c07b" style="">★</text>
+<text x="528.8" y="165.5" fill="#56b6c2" style="">  57 </text>
+<text x="570.8" y="165.5" fill="#c8ccd4" style="">omarchy/apps/terminals.lua… </text>
+<text x="806.0" y="165.5" fill="#c8ccd4" style="">class~(Alacritty|kitty|com.mitchellh.ghostty|foot|org\</text>
+<text x="1259.6" y="165.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="183.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="183.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="183.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="183.5" fill="#56b6c2" style="">│</text>
+<rect x="495.2" y="170.0" width="16.8" height="18" fill="#282c34"/>
+<text x="495.2" y="183.5" fill="#98c379" style="">ON</text>
+<rect x="512.0" y="170.0" width="16.8" height="18" fill="#282c34"/>
+<text x="512.0" y="183.5" fill="#c8ccd4" style="">  </text>
+<rect x="528.8" y="170.0" width="42.0" height="18" fill="#282c34"/>
+<text x="528.8" y="183.5" fill="#56b6c2" style="">  62 </text>
+<rect x="570.8" y="170.0" width="235.2" height="18" fill="#282c34"/>
+<text x="570.8" y="183.5" fill="#c8ccd4" style="">omarchy/windows.lua:25      </text>
+<rect x="806.0" y="170.0" width="159.6" height="18" fill="#282c34"/>
+<text x="806.0" y="183.5" fill="#c8ccd4" style="">tag=default-opacity</text>
+<rect x="965.6" y="170.0" width="16.8" height="18" fill="#282c34"/>
+<text x="965.6" y="183.5" fill="#c8ccd4" style="">  </text>
+<rect x="982.4" y="170.0" width="176.4" height="18" fill="#282c34"/>
+<text x="982.4" y="183.5" fill="#5c6370" style="text-decoration:line-through">opacity=&quot;0.985 0.96&quot; </text>
+<rect x="1158.8" y="170.0" width="100.8" height="18" fill="#282c34"/>
+<text x="1158.8" y="183.5" fill="#c8ccd4" style="">            </text>
+<text x="1259.6" y="183.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="201.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="201.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="201.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="201.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="201.5" fill="#98c379" style="">ON</text>
+<text x="512.0" y="201.5" fill="#c8ccd4" style=""> </text>
+<text x="520.4" y="201.5" fill="#e5c07b" style="">★</text>
+<text x="528.8" y="201.5" fill="#56b6c2" style="">  63 </text>
+<text x="570.8" y="201.5" fill="#c8ccd4" style="">hypr/looknfeel.lua:73       </text>
+<text x="806.0" y="201.5" fill="#c8ccd4" style="">class~.*</text>
+<text x="873.2" y="201.5" fill="#c8ccd4" style="">  </text>
+<text x="890.0" y="201.5" fill="#e5c07b" style="">opacity=&quot;1.0 1.0&quot; </text>
+<text x="1041.2" y="201.5" fill="#c8ccd4" style="">                          </text>
+<text x="1259.6" y="201.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="219.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="219.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="219.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="219.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="219.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="219.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="237.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="237.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="237.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="237.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="237.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="237.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="255.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="255.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="255.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="255.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="255.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="255.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="273.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="273.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="273.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="273.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="273.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="273.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="291.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="291.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="291.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="291.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="291.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="291.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="309.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="309.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="309.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="309.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="309.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="309.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="327.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="327.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="327.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="327.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="327.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="327.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="345.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="345.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="345.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="345.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="345.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="345.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="363.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="363.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="363.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="363.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="363.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="363.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="381.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="381.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="381.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="381.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="381.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="381.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="399.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="399.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="399.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="399.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="399.5" fill="#5c6370" style="">───────────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="1259.6" y="399.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="417.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="417.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="417.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="417.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="417.5" fill="#56b6c2" style="font-weight:600">#62</text>
+<text x="520.4" y="417.5" fill="#c8ccd4" style=""> /usr/share/omarchy/default/hypr/windows.lua:25</text>
+<text x="915.2" y="417.5" fill="#5c6370" style="">  via window() omarchy/helpers.lua:153</text>
+<text x="1234.4" y="417.5" fill="#c8ccd4" style="">   </text>
+<text x="1259.6" y="417.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="435.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="435.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="435.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="435.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="435.5" fill="#5c6370" style="">match  </text>
+<text x="554.0" y="435.5" fill="#98c379" style="">✓ tag=default-opacity </text>
+<text x="738.8" y="435.5" fill="#5c6370" style="">[default-opacity* terminal*]</text>
+<text x="974.0" y="435.5" fill="#c8ccd4" style="">                                  </text>
+<text x="1259.6" y="435.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="453.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="453.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="453.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="453.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="453.5" fill="#c8ccd4" style="">       </text>
+<text x="554.0" y="453.5" fill="#5c6370" style="">dynamic </text>
+<text x="621.2" y="453.5" fill="#c8ccd4" style="">opacity           </text>
+<text x="772.4" y="453.5" fill="#e5c07b" style="">&quot;0.985 0.96&quot;           </text>
+<text x="965.6" y="453.5" fill="#5c6370" style="">overridden by #63</text>
+<text x="1108.4" y="453.5" fill="#c8ccd4" style="">                  </text>
+<text x="1259.6" y="453.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="471.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="471.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="471.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="471.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="471.5" fill="#5c6370" style="">hypr/looknfeel.lua:73</text>
+<text x="671.6" y="471.5" fill="#c8ccd4" style="">                                                                      </text>
+<text x="1259.6" y="471.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="489.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="489.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="489.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="489.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="489.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="489.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="507.5" fill="#5c6370" style="">│</text>
+<text x="16.4" y="507.5" fill="#c8ccd4" style="">                                                       </text>
+<text x="478.4" y="507.5" fill="#5c6370" style="">│</text>
+<text x="486.8" y="507.5" fill="#56b6c2" style="">│</text>
+<text x="495.2" y="507.5" fill="#c8ccd4" style="">                                                                                           </text>
+<text x="1259.6" y="507.5" fill="#56b6c2" style="">│</text>
+<text x="8.0" y="525.5" fill="#5c6370" style="">└───────────────────────────────────────────────────────┘</text>
+<text x="486.8" y="525.5" fill="#56b6c2" style="">└───────────────────────────────────────────────────────────────────────────────────────────┘</text>
+<text x="8.0" y="543.5" fill="#5c6370" style=""> events ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────</text>
+<text x="8.0" y="561.5" fill="#c8ccd4" style="">   0s </text>
+<text x="58.4" y="561.5" fill="#c678dd" style="">windowtitlev2     </text>
+<text x="209.6" y="561.5" fill="#c8ccd4" style="">559f6dd23d60,◑ GitHub repository concepts for Linux, Docker, Unraid, and Omarchy</text>
+<text x="8.0" y="579.5" fill="#5c6370" style="">   1s </text>
+<text x="58.4" y="579.5" fill="#c678dd" style="">windowtitlev2     </text>
+<text x="209.6" y="579.5" fill="#c8ccd4" style="">559f6dd23d60,◐ GitHub repository concepts for Linux, Docker, Unraid, and Omarchy</text>
+<text x="8.0" y="615.5" fill="#5c6370" style="">j/k move · Tab pane · / match · m easy · a all rules · y copy rule · e edit · f focus · R apply · ? help · q quit</text>
+</svg>

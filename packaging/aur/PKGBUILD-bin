@@ -1,0 +1,18 @@
+# Maintainer: Kevin Cardwell <kevincardwell@users.noreply.github.com>
+pkgname=hyprscope-bin
+_pkgname=hyprscope
+pkgver=0.1.0
+pkgrel=1
+pkgdesc="See why every Hyprland window landed where it did, and which rule did it (prebuilt binary)"
+arch=('x86_64')
+url="https://github.com/kevincardwell/hyprscope"
+license=('MIT')
+provides=('hyprscope')
+conflicts=('hyprscope')
+source=("$url/releases/download/v$pkgver/$_pkgname-$pkgver-x86_64-unknown-linux-musl.tar.gz")
+sha256sums=('SKIP')
+
+package() {
+  install -Dm755 "$srcdir/$_pkgname" "$pkgdir/usr/bin/$_pkgname"
+  install -Dm644 "$srcdir/LICENSE" "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
+}
