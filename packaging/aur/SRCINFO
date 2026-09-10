@@ -1,0 +1,16 @@
+pkgbase = hyprscope
+	pkgdesc = See why every Hyprland window landed where it did, and which rule did it
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/kevincardwell/hyprscope
+	arch = x86_64
+	arch = aarch64
+	license = MIT
+	makedepends = cargo
+	depends = gcc-libs
+	depends = glibc
+	optdepends = hyprland: the compositor this inspects (0.53 or newer, Lua config)
+	source = hyprscope-0.1.0.tar.gz::https://github.com/kevincardwell/hyprscope/archive/v0.1.0.tar.gz
+	sha256sums = 706086b317c7effb11fb6c6adbaf6035adc67833713ca77672543f481779d103
+
+pkgname = hyprscope

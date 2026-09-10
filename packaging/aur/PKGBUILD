@@ -10,7 +10,7 @@ depends=('gcc-libs' 'glibc')
 makedepends=('cargo')
 optdepends=('hyprland: the compositor this inspects (0.53 or newer, Lua config)')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/v$pkgver.tar.gz")
-sha256sums=('SKIP')
+sha256sums=('706086b317c7effb11fb6c6adbaf6035adc67833713ca77672543f481779d103')
 
 prepare() {
   cd "$pkgname-$pkgver"

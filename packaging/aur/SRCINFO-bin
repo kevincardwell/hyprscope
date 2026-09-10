@@ -1,0 +1,16 @@
+pkgbase = hyprscope-bin
+	pkgdesc = See why every Hyprland window landed where it did, and which rule did it (prebuilt binary)
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/kevincardwell/hyprscope
+	arch = x86_64
+	arch = aarch64
+	license = MIT
+	provides = hyprscope
+	conflicts = hyprscope
+	source_x86_64 = https://github.com/kevincardwell/hyprscope/releases/download/v0.1.0/hyprscope-0.1.0-x86_64-unknown-linux-musl.tar.gz
+	sha256sums_x86_64 = 7a07034b77890efbd9c24e1b34e630a018ddd0863bf3b1775fede95f700bd783
+	source_aarch64 = https://github.com/kevincardwell/hyprscope/releases/download/v0.1.0/hyprscope-0.1.0-aarch64-unknown-linux-musl.tar.gz
+	sha256sums_aarch64 = 679d77534954777798f61f3a6a73e233be69770c1d3f8537dc1233e6fb698890
+
+pkgname = hyprscope-bin
